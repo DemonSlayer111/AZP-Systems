@@ -2,51 +2,65 @@
 
 #### Last updated May 19, 2024
 
-This privacy notice for AZP Systems Inc. ("we," "us," or "our"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
+This privacy notice for AZP Systems Inc. ("**we**," "**us**," or "**our**"), describes how and why we might collect, store, use, and/or share ("**process**") your information when you use our services ("**Services**"), such as when you:
 
 - Download and use our mobile application (Goalmark), or any other application of ours that links to this privacy notice
+
 - Engage with us in other related ways, including any sales, marketing, or events
 
 **Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at support@azpsystems.com.
 
 ## SUMMARY OF KEY POINTS
 
-**This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents below to find the section you are looking for.**
+**This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our [table of contents](#table-of-contents) below to find the section you are looking for.**
 
-**What personal information do we process?** When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more about personal information you disclose to us.
+**What personal information do we process?** When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more about [personal information you disclose to us](#personal-information-you-disclose-to-us).
 
 **Do we process any sensitive personal information?** We do not process sensitive personal information.
 
 **Do we collect any information from third parties?** We do not collect any information from third parties.
 
-**How do we process your information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about how we process your information.
+**How do we process your information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about [how we process your information](#2-how-do-we-process-your-information).
 
-**In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific third parties. Learn more about when and with whom we share your personal information.
+**In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific third parties. Learn more about [when and with whom we share your personal information](#4-when-and-with-whom-do-we-share-your-personal-information).
 
-**How do we keep your information safe?** We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about how we keep your information safe.
+**How do we keep your information safe?** We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about [how we keep your information safe](#4-when-and-with-whom-do-we-share-your-personal-information).
 
-**What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about your privacy rights.
+**What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about [your privacy rights](#4-when-and-with-whom-do-we-share-your-personal-information).
 
 **How do you exercise your rights?** The easiest way to exercise your rights is by submitting a data subject access request, or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
 
-Want to learn more about what we do with any information we collect? Review the privacy notice in full.
+Want to learn more about what we do with any information we collect? [Review the privacy notice in full](#table-of-contents).
 
 ## TABLE OF CONTENTS
 
-1. WHAT INFORMATION DO WE COLLECT?
-2. HOW DO WE PROCESS YOUR INFORMATION?
-3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?
-4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
-5. HOW DO WE HANDLE YOUR SOCIAL LOGINS?
-6. HOW LONG DO WE KEEP YOUR INFORMATION?
-7. HOW DO WE KEEP YOUR INFORMATION SAFE?
-8. DO WE COLLECT INFORMATION FROM MINORS?
-9. WHAT ARE YOUR PRIVACY RIGHTS?
-10. CONTROLS FOR DO-NOT-TRACK FEATURES
-11. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
-12. DO WE MAKE UPDATES TO THIS NOTICE?
-13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
-14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+[1. WHAT INFORMATION DO WE COLLECT?](#1-what-information-do-we-collect)
+
+[2. HOW DO WE PROCESS YOUR INFORMATION?](#2-how-do-we-process-your-information)
+
+[3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?](#3-what-legal-bases-do-we-rely-on-to-process-your-information)
+
+[4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#4-when-and-with-whom-do-we-share-your-personal-information)
+
+[5. HOW DO WE HANDLE YOUR SOCIAL LOGINS?](#5-how-do-we-handle-your-social-logins)
+
+[6. HOW LONG DO WE KEEP YOUR INFORMATION?](#6-how-long-do-we-keep-your-information)
+
+[7. HOW DO WE KEEP YOUR INFORMATION SAFE?](#7-how-do-we-keep-your-information-safe)
+
+[8. DO WE COLLECT INFORMATION FROM MINORS?](#8-do-we-collect-information-from-minors)
+
+[9. WHAT ARE YOUR PRIVACY RIGHTS?](#9-what-are-your-privacy-rights)
+
+[10. CONTROLS FOR DO-NOT-TRACK FEATURES](#10-controls-for-do-not-track-features)
+
+[11. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](#11-do-united-states-residents-have-specific-privacy-rights)
+
+[12. DO WE MAKE UPDATES TO THIS NOTICE?](#12-do-we-make-updates-to-this-notice)
+
+[13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#13-how-can-you-contact-us-about-this-notice)
+
+[14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#14-how-can-you-review-update-or-delete-the-data-we-collect-from-you)
 
 ## 1. WHAT INFORMATION DO WE COLLECT?
 
@@ -59,14 +73,18 @@ We collect personal information that you voluntarily provide to us when you regi
 **Personal Information Provided by You.** The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make, and the products and features you use. The personal information we collect may include the following:
 
 - names
+
 - email addresses
+
 - usernames
+
 - passwords
+
 - debit/credit card numbers
 
 **Sensitive Information.** We do not process sensitive information.
 
-**Social Media Login Data.** We may provide you with the option to register with us using your existing social media account details, like your Facebook, X, or other social media account. If you choose to register in this way, we will collect certain profile information about you from the social media provider, as described in the section called "HOW DO WE HANDLE YOUR SOCIAL LOGINS?" below.
+**Social Media Login Data.** We may provide you with the option to register with us using your existing social media account details, like your Facebook, X, or other social media account. If you choose to register in this way, we will collect certain profile information about you from the social media provider, as described in the section called "[HOW DO WE HANDLE YOUR SOCIAL LOGINS?](#5-how-do-we-handle-your-social-logins)" below.
 
 **Application Data.** If you use our application(s), we also may collect the following information if you choose to provide us with access or permission:
 
@@ -95,9 +113,12 @@ _**In Short:** We only process your personal information when we believe it is n
 
 The General Data Protection Regulation (GDPR) and UK GDPR require us to explain the valid legal bases we rely on in order to process your personal information. As such, we may rely on the following legal bases to process your personal information:
 
-- **Consent.** We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Learn more about withdrawing your consent.
+- **Consent.** We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time.
+
 - **Performance of a Contract.** We may process your personal information when we believe it is necessary to fulfill our contractual obligations to you, including providing our Services or at your request prior to entering into a contract with you.
+
 - **Legal Obligations.** We may process your information where we believe it is necessary for compliance with our legal obligations, such as to cooperate with a law enforcement body or regulatory agency, exercise or defend our legal rights, or disclose your information as evidence in litigation in which we are involved.
+
 - **Vital Interests.** We may process your information where we believe it is necessary to protect your vital interests or the vital interests of a third party, such as situations involving potential threats to the safety of any person.
 
 **_If you are located in Canada, this section applies to you._**
@@ -107,15 +128,24 @@ We may process your information if you have given us specific permission (i.e., 
 In some exceptional cases, we may be legally permitted under applicable law to process your information without your consent, including, for example:
 
 - If collection is clearly in the interests of an individual and consent cannot be obtained in a timely way
+
 - For investigations and fraud detection and prevention
+
 - For business transactions provided certain conditions are met
   -If it is contained in a witness statement and the collection is necessary to assess, process, or settle an insurance claim
+
 - For identifying injured, ill, or deceased persons and communicating with next of kin
+
 - If we have reasonable grounds to believe an individual has been, is, or may be victim of financial abuse
+
 - If it is reasonable to expect collection and use with consent would compromise the availability or the accuracy of the information and the collection is reasonable for purposes related to investigating a breach of an agreement or a contravention of the laws of Canada or a province
+
 - If disclosure is required to comply with a subpoena, warrant, court order, or rules of the court relating to the production of records
+
 - If it was produced by an individual in the course of their employment, business, or profession and the collection is consistent with the purposes for which the information was produced
+
 - If the collection is solely for journalistic, artistic, or literary purposes
+
 - If the information is publicly available and is specified by the regulations
 
 ## 4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
@@ -158,7 +188,7 @@ We do not knowingly collect, solicit data from, or market to children under 18 y
 
 _**In Short:** Depending on your state of residence in the US or in some regions, such as the European Economic Area (EEA), United Kingdom (UK), Switzerland, and Canada, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time, depending on your country, province, or state of residence._
 
-In some regions (like the EEA, UK, Switzerland, and Canada), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; (iv) if applicable, to data portability; and (v) not to be subject to automated decision-making. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us by using the contact details provided in the section "HOW CAN YOU CONTACT US ABOUT THIS NOTICE?" below.
+In some regions (like the EEA, UK, Switzerland, and Canada), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; (iv) if applicable, to data portability; and (v) not to be subject to automated decision-making. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us by using the contact details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#13-how-can-you-contact-us-about-this-notice)" below.
 
 We will consider and act upon any request in accordance with applicable data protection laws.
 
@@ -166,7 +196,7 @@ If you are located in the EEA or UK and you believe we are unlawfully processing
 
 If you are located in Switzerland, you may contact the Federal Data Protection and Information Commissioner.
 
-**Withdrawing your consent:** If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "HOW CAN YOU CONTACT US ABOUT THIS NOTICE?" below.
+**Withdrawing your consent:** If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#13-how-can-you-contact-us-about-this-notice)" below.
 
 However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
@@ -175,6 +205,7 @@ However, please note that this will not affect the lawfulness of the processing 
 If you would at any time like to review or change the information in your account or terminate your account, you can:
 
 - Contact us using the contact information provided.
+
 - Log in to your account settings and update your user account.
 
 Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, we may retain some information in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our legal terms and/or comply with applicable legal requirements.
@@ -213,26 +244,30 @@ We have collected the following categories of personal information in the past t
 We may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:
 
 - Receiving help through our customer support channels;
+
 - Participation in customer surveys or contests; and
+
 - Facilitation in the delivery of our Services and to respond to your inquiries.
 
 We will use and retain the collected personal information as needed to provide the Services or for:
 
 - Category A - As long as the user has an account with us
+
 - Category B - As long as the user has an account with us
+
 - Category D - As long as the user has an account with us
 
 ### Sources of Personal Information
 
-Learn more about the sources of personal information we collect in "WHAT INFORMATION DO WE COLLECT?"
+Learn more about the sources of personal information we collect in "[WHAT INFORMATION DO WE COLLECT?](#1-what-information-do-we-collect)"
 
 ### How We Use and Share Personal Information
 
-Learn about how we use your personal information in the section, "HOW DO WE PROCESS YOUR INFORMATION?"
+Learn about how we use your personal information in the section, "[HOW DO WE PROCESS YOUR INFORMATION?](#2-how-do-we-process-your-information)"
 
 **Will your information be shared with anyone else?**
 
-We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Learn more about how we disclose personal information to in the section, "WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?"
+We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Learn more about how we disclose personal information to in the section, "[WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#4-when-and-with-whom-do-we-share-your-personal-information)"
 
 We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be "selling" of your personal information.
 
@@ -243,18 +278,27 @@ We have not disclosed, sold, or shared any personal information to third parties
 You have rights under certain US state data protection laws. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law. These rights include:
 
 - **Right to know** whether or not we are processing your personal data
+
 - **Right to access** your personal data
+
 - **Right to correct** inaccuracies in your personal data
+
 - **Right to request** the deletion of your personal data
+
 - **Right to obtain a copy** of the personal data you previously shared with us
+
 - **Right to non-discrimination** for exercising your rights
+
 - **Right to opt out** of the processing of your personal data if it is used for targeted advertising (or sharing as defined under California’s privacy law), the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")
 
 Depending upon the state where you live, you may also have the following rights:
 
 - Right to obtain a list of the categories of third parties to which we have disclosed personal data (as permitted by applicable law, including California's and Delaware's privacy law)
+
 - Right to obtain a list of specific third parties to which we have disclosed personal data (as permitted by applicable law, including Oregon’s privacy law)
+
 - Right to limit use and disclosure of sensitive personal data (as permitted by applicable law, including California’s privacy law)
+
 - Right to opt out of the collection of sensitive data and personal data collected through the operation of a voice or facial recognition feature (as permitted by applicable law, including Florida’s privacy law)
 
 ### How to Exercise Your Rights
@@ -275,7 +319,7 @@ Under certain US state data protection laws, if we decline to take action regard
 
 ### California "Shine The Light" Law
 
-California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us by using the contact details provided in the section "HOW CAN YOU CONTACT US ABOUT THIS NOTICE?"
+California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us by using the contact details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#13-how-can-you-contact-us-about-this-notice)"
 
 ## 12. DO WE MAKE UPDATES TO THIS NOTICE?
 
