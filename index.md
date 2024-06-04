@@ -5,7 +5,10 @@
 ## Services
 
 
-### [dungeons.bot](https://dungeons.bot)
-An advanced ARK Mobile companion that guides players through challenges and provides informative game statistics. Updated regularly as new content releases.
+### [Goalmark](https://apps.apple.com/us/app/goalmark/id6502265641)
 
-![dungeons.bot](https://dungeons.bot/_next/image?url=%2Flogo.png&w=96&q=75)
+Unlock your potential.
+
+Take control of your future and make your dreams a reality with Goalmark. Designed to help you stay on track and motivated, Goalmark offers a comprehensive suite of features to keep you focused and driven.
+
+![Goalmark](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/64/8e/25648efe-f310-c159-3ef8-2885972b49ab/AppIcon-0-0-1x_U007ephone-0-85-220.png/230x0w.webp)
